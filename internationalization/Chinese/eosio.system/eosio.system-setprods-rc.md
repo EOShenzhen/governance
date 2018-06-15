@@ -1,4 +1,3 @@
-# eosio.system-setprods-rc.md
 # Action - {{ setprods }}
 
 ## 描述
